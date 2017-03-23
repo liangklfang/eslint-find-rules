@@ -33,7 +33,7 @@
     "cliui": "^3.2.0",
     "eslint-rule-documentation": "^1.0.0",
     "path-is-absolute": "1.0.0",
-    "which": "^1.2.8",
+    "which": "^1.2.13",
     "window-size": "^0.2.0",
     "yargs": "^5.0.0"
   },
